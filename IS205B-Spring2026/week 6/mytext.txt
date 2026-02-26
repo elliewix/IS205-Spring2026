@@ -1,0 +1,3 @@
+today we talked about
+indexes and slicing
+glad I remembered how to spell those

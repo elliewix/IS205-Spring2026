@@ -1,0 +1,3 @@
+today we talked about
+indexing and slicing
+it was weird
