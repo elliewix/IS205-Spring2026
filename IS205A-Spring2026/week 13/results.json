@@ -1,0 +1,26 @@
+{
+    "Aaaay": {
+        "credits": 0,
+        "fav_classes": [
+            "IS202"
+        ]
+    },
+    "Beee": {
+        "credits": 12,
+        "fav_classes": []
+    },
+    "Ceey": {
+        "credits": 0,
+        "fav_classes": [
+            "IS308",
+            "IS145",
+            [
+                "fav2",
+                "fav3"
+            ],
+            "fav5",
+            "fav6",
+            "fav7"
+        ]
+    }
+}
